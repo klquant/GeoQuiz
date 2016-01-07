@@ -1,0 +1,9 @@
+
+RootFolder
+F:\AndroidStudioProject\GeoQuiz\app\src\main\java\geoquiz\android\bignerdranch\com\geoquiz\
+
+for activityManifest file
+F:\AndroidStudioProject\GeoQuiz\app\src\main\
+
+for layout files
+F:\AndroidStudioProject\GeoQuiz\app\src\main\res\layout
