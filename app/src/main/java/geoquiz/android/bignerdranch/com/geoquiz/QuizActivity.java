@@ -1,5 +1,7 @@
 package geoquiz.android.bignerdranch.com.geoquiz;
 
+//https://www.londonappdeveloper.com/how-to-use-git-hub-with-android-studio/
+//http://jodieorourke.com/view.php?id=190&blog=news
 
 import android.app.Activity;
 //import android.media.Image;
